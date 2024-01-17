@@ -15,4 +15,4 @@ a back-end API, and front-end interfacing in a clone of AirBnB.
 The project currently only implements the back-end console.
 
 ## Authors:
-* Chinedu Nweke <[Chinedu Nweke](https://github.com/ChineduSE)>
+* Orakwe Foluke <[Orakwe Foluke](https://github.com/Foluke1)>
